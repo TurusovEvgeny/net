@@ -1,0 +1,6 @@
+c:\users\evgeny\documents\visual studio 2015\Projects\net1\net1\bin\Debug\net1.exe.config
+c:\users\evgeny\documents\visual studio 2015\Projects\net1\net1\bin\Debug\net1.exe
+c:\users\evgeny\documents\visual studio 2015\Projects\net1\net1\bin\Debug\net1.pdb
+c:\users\evgeny\documents\visual studio 2015\Projects\net1\net1\obj\Debug\net1.exe
+c:\users\evgeny\documents\visual studio 2015\Projects\net1\net1\obj\Debug\net1.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2015\Projects\net1\net1\obj\Debug\net1.csprojResolveAssemblyReference.cache
